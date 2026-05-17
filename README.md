@@ -12,6 +12,9 @@ Verification-Aware Knowledge Graph Construction (VAKGC) is an NLP + LLM framewor
 
 The framework focuses on reducing hallucinated or unsupported triples generated during automatic knowledge graph construction.
 
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/5e5fd97f-d6e3-4891-a07a-0f4f27dcbe59" />
+
+
 ---
 
 # 🚀 Features
